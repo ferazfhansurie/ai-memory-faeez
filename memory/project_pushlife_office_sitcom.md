@@ -1,7 +1,9 @@
 ---
-name: ""
-metadata: 
+name: project_pushlife_office_sitcom
+description: PUSH Life — single-camera mockumentary comedy series (The Office / Parks & Rec) for FatHopes Energy's PUSH/UCO collection world
+metadata:
   node_type: memory
+  type: project
   originSessionId: 5d3e9062-2224-455b-b19f-377b63d161bd
 ---
 
