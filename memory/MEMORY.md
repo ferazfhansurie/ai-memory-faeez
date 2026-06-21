@@ -8,7 +8,7 @@
 - [TikTok content must feel unplanned](feedback_tiktok_unscripted.md) — frame as triggers/moments to catch, not scripts; lean DOWN in production; only applies to @faeezree, not ADletic ad work
 - [KL conversational Malay for VO, not Indonesian AI voices](feedback_kl_malay_voice.md) — dub real KL voices or force KL Manglish markers + schwa; in-model TTS defaults to Indonesian and sounds AI
 - [Gen-Z "funny but kinda serious" content formula](feedback_content_genz_funny_serious.md) — default for branded short-form: Office-style recognition humor + a real turn, recurring characters/catchphrases, episodic, lo-fi real people (not @faeezree)
-- [PUSH Life — Office-style mockumentary series](project_pushlife_office_sitcom.md) — FatHopes UCO-collection depot crew; dry confessionals, grounded in real oil-collection world (NOT generic gen-z skits); cast + tone bible
+- [PUSH Life — day-in-the-life documentary series](project_pushlife_office_sitcom.md) — real PUSH collectors + depot staff, observational not scripted, iPhone single-cam, Manglish; grounded in real UCO collection world
 - [FatHopes UCO program](project_fathopes_uco_program.md) — PUSH recruitment arm + community roadshows + Singapore branch (Tuas South Ave 3); completed events: Encorp Mall 50KG, FELCRA Melaka 115KG
 - [FatHopes event-recap video format (LOCKED)](feedback_fathopes_event_recap_format.md) — 9:16 lime-green, real photos static+untouched, only infographic/text animates, hero stat card, Manglish 80% Melayu, no CTA on recaps
 - [Seedance morphs real faces — use CapCut/AE/HTML for pixel-exact photos](feedback_seedance_cannot_preserve_faces.md) — generative video re-renders every frame; guaranteed fidelity route is CapCut/After Effects (Ken Burns OFF) or animated HTML screen-recorded
