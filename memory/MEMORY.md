@@ -9,3 +9,5 @@
 - [KL conversational Malay for VO, not Indonesian AI voices](feedback_kl_malay_voice.md) — dub real KL voices or force KL Manglish markers + schwa; in-model TTS defaults to Indonesian and sounds AI
 - [Gen-Z "funny but kinda serious" content formula](feedback_content_genz_funny_serious.md) — default for branded short-form: Office-style recognition humor + a real turn, recurring characters/catchphrases, episodic, lo-fi real people (not @faeezree)
 - [PUSH Life — Office-style mockumentary series](project_pushlife_office_sitcom.md) — FatHopes UCO-collection depot crew; dry confessionals, grounded in real oil-collection world (NOT generic gen-z skits); cast + tone bible
+- [Google Ads connection](reference_google_ads_project.md) — LIVE via API v22; GCP `serious-timer-500011-a0`, MCC `162-977-0601`, ad acct `871-470-7145`; secrets in local .env
+- [Google Ads audit + PUSH problem](project_google_ads_audit.md) — PUSH Recruitment (PMax) spent RM751 with 0 conversions — tracking broken, top priority
