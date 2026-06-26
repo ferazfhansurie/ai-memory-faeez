@@ -11,3 +11,7 @@
 - [PUSH Life — Office-style mockumentary series](project_pushlife_office_sitcom.md) — FatHopes UCO-collection depot crew; dry confessionals, grounded in real oil-collection world (NOT generic gen-z skits); cast + tone bible
 - [Google Ads connection](reference_google_ads_project.md) — LIVE via API v22; GCP `serious-timer-500011-a0`, MCC `162-977-0601`, ad acct `871-470-7145`; secrets in local .env
 - [Google Ads audit + PUSH problem](project_google_ads_audit.md) — PUSH Recruitment (PMax) spent RM751 with 0 conversions — tracking broken, top priority
+- [Meta Ads connection](reference_meta_ads.md) — full Graph API token in .env.local (never-expires); account map; use token over MCP; MotionBoards /api/upload for image hosting
+- [PUSH recruitment on Meta](project_push_recruitment_meta.md) — acct `725484841474739`; Week 37 Copy 2 targeting (14 cities, age 25-65, driver job titles); Kelantan paused; daily lead-log format
+- [ShineWrappers car-wrap ads](project_shinewrappers_ads.md) — acct `572268621423470`; account-wide PAYMENT ERROR; WhatsApp campaign paused, 4 ads to finish in Ads Manager
+- [FatHopes video/content concepts](project_fathopes_video_content.md) — PUSH AI ad, Vendor-app 5 split-tests, "buy used oil" field series, In-The-Field gotong-royong series
