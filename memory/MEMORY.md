@@ -15,3 +15,4 @@
 - [PUSH recruitment on Meta](project_push_recruitment_meta.md) — acct `725484841474739`; Week 37 Copy 2 targeting (14 cities, age 25-65, driver job titles); Kelantan paused; daily lead-log format
 - [ShineWrappers car-wrap ads](project_shinewrappers_ads.md) — acct `572268621423470`; account-wide PAYMENT ERROR; WhatsApp campaign paused, 4 ads to finish in Ads Manager
 - [FatHopes video/content concepts](project_fathopes_video_content.md) — PUSH AI ad, Vendor-app 5 split-tests, "buy used oil" field series, In-The-Field gotong-royong series
+- [FatHopes Threads auto-poster](project_fathopes_threads_autopost.md) — @farzmus KL-voice loyalty-app poster, phased + engagement-ramped, Vercel cron, Meta Threads API; full manual in THREADS-AUTOPOSTER.md
