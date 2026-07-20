@@ -1,4 +1,4 @@
-Pressure-test or generate **unique** advertisement concepts — the kind that stop the scroll because they don't look like ads. Use this *after* `/ad-story` has handled the basic spine and you want to push for something competitors can't copy. Pairs with `/seedance-prompt` for the keyframe execution and `/reel-tempo` for the cut.
+Pressure-test or generate **unique** advertisement concepts — the kind that stop the scroll because they don't look like ads. Use this *after* `/ad-story` has handled the basic spine and you want to push for something competitors can't copy. Pair with `/reel-tempo` when turning the concept into a short-form execution plan.
 
 # Unique Ads — How to break the pattern
 

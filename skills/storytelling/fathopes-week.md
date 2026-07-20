@@ -1,4 +1,4 @@
-Plan a 7-day organic mini-series for FatHopes Energy starring the three superheroes (D.R. Up, Kit The Smular, Sparron) vs the Geng Orang Minyak (G.O.M.) villains. Entertainment-first, not ads — the goal is that people *want* the next episode, the way they wait for the next Upin & Ipin or Ejen Ali drop. Use this when the user asks for a week of FatHopes content, a superhero mini-series, or character-led organic posts. Pairs with `/reel-tempo` for the cut, `/nano-banana` for keyframes, `/seedance-prompt` for I2V.
+Plan a 7-day organic mini-series for FatHopes Energy starring the three superheroes (D.R. Up, Kit The Smular, Sparron) vs the Geng Orang Minyak (G.O.M.) villains. Entertainment-first, not ads — the goal is that people *want* the next episode, the way they wait for the next Upin & Ipin or Ejen Ali drop. Use this when the user asks for a week of FatHopes content, a superhero mini-series, or character-led organic posts. Pair with `/reel-tempo` when turning the story beats into a short-form execution plan.
 
 # FatHopes Energy — Weekly Superhero Mini-Series (Organic)
 
